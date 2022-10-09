@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @im45145v
+- 👀 I’m interested in AI,blockchain,bots
+- 🌱 I’m currently learning Python,c
+- 💞️ I’m looking to collaborate on something creative
+- 📫 How to reach me @im45145v is my handle anywhere
