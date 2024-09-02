@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish <img src="https://media.giphy.com/media/iDdroSqfT7QKQ/giphy.gif" width="35"></h1>
 <h3 align="center">A community enthusiast from India</h3>
-<picture> <img align="right" src="https://github.com/im45145v/im45145v/blob/main/assets/myMona.png?raw=true" width = 180px></picture>
+<picture> <img align="right" src="https://github.com/im45145v/im45145v/blob/main/media/myMona.png" width = 180px></picture>
 
 ## About
 - **👤 Name:** Malla Venkata Sai Ashish
