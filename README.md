@@ -11,14 +11,20 @@
 ## Random things?
 - 🌱 I’m currently learning **Go, Devops, Python**
 - 👨‍💻 All of my projects are available at [Devpost.com](https://devpost.com/im45145v)
-
 - 💬 Ask me about **Communities & Tech**
-
 - 📫 How to reach me **im45145v@gmail.com**
-
 - 📄 Know about my [experiences](https://im45145v.notion.site/Malla-Venkata-Sai-Ashish-8a739dff99774c43937ec53ab872433f?pvs=4)
 
 - ⚡ Fun fact **I love binge watching asian dramas and super hero movies**
+
+## Community work
+- Lead [@hackerabad](https://twitter.com/hackerabad)
+- Postman Student Leader
+- Organized [HackPrix](https://instagram.com/hackprix), [CodeDay Hyderabad](https://instagram.com/codeday_hyderabad), [OpinHacks](https://www.instagram.com/opinhacks)
+- Conducted and Delivered Tech workshops
+- Hackthon Evangelist
+- ex-Streamlit Ambassador
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
